@@ -130,7 +130,7 @@ Unidecode==0.4.21
 urllib3==1.22
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
-wagtail==2.1
+wagtail==2.7.2
 watchdog==0.8.3
 wcwidth==0.1.7
 webencodings==0.5.1
