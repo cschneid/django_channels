@@ -28,7 +28,7 @@ decorator==4.2.1
 dill==0.2.7.1
 dj-database-url==0.5.0
 Django==2.0.6
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-debug-toolbar-line-profiler==0.6.1
 django-debug-toolbar-request-history==0.0.6
 django-debug-toolbar-template-profiler==1.0.2
