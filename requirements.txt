@@ -16,7 +16,7 @@ aws-xray-sdk==0.95
 Babel==2.5.3
 beautifulsoup4==4.6.0
 cachetools==2.0.1
-certifi==2018.4.16
+certifi==2022.12.7
 channels==2.1.1
 channels-redis==2.2.1
 chardet==3.0.4
